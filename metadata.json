@@ -1,0 +1,7 @@
+{
+  "name": "InterviewPro AI",
+  "description": "A professional AI-powered interview practice partner using Gemini Live API for real-time voice interactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
